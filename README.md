@@ -7,8 +7,8 @@ Innovative DEX with concentrated liquidity, adaptive fee, build-in farming etc.
 </p>
  
  <p align="center">
- <a href="https://github.com/cryptoalgebra/Algebra/actions/workflows/tests.yml"><img alt="Tests status" src="https://github.com/cryptoalgebra/Algebra/actions/workflows/tests.yml/badge.svg"></a>
-  <a href="https://github.com/cryptoalgebra/Algebra/actions/workflows/echidna.yml"><img alt="Echidna status" src="https://github.com/cryptoalgebra/Algebra/actions/workflows/echidna.yml/badge.svg"></a>
+ <a href="https://github.com/cryptoalgebra/AlgebraV1/actions/workflows/tests.yml"><img alt="Tests status" src="https://github.com/cryptoalgebra/AlgebraV1/actions/workflows/tests.yml/badge.svg"></a>
+  <a href="https://github.com/cryptoalgebra/AlgebraV1/actions/workflows/echidna.yml"><img alt="Echidna status" src="https://github.com/cryptoalgebra/AlgebraV1/actions/workflows/echidna.yml/badge.svg"></a>
 </p>
 
 
