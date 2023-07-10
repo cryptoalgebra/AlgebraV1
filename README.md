@@ -13,6 +13,7 @@ Innovative DEX with concentrated liquidity, adaptive fee, build-in farming etc.
 
 - [Docs](#Docs)
 - [Versions](#Versions)
+- [Packages](#Packages)
 - [Build](#Build)
 - [Tests](#Tests)
 - [Coverage](#Tests-coverage)
@@ -31,6 +32,18 @@ Please note that different DEX-partners of our protocol may use different versio
 This repository contains smart contracts that belong to the first version of the protocol (Algebra V1.0.0).
 
 A page describing the versions used by partners can be found in the documentation: [partners page](https://docs.algebra.finance/en/docs/contracts/partners/introduction)
+
+## Packages 
+
+Full packages:
+
+[@cryptoalgebra/core v2.0.0](https://www.npmjs.com/package/@cryptoalgebra/core/v/2.0.0)
+
+[@cryptoalgebra/periphery v1.0.0](https://www.npmjs.com/package/@cryptoalgebra/periphery/v/1.0.0)
+
+Only interfaces:
+
+[@cryptoalgebra/solidity-interfaces](https://www.npmjs.com/package/@cryptoalgebra/solidity-interfaces)
 
 ## Build
 
