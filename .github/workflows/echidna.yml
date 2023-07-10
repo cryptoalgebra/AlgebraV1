@@ -3,11 +3,11 @@ name: Echidna
 on:
   push:
     branches:
-      - master
+      - main
       - staged
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   Core:
