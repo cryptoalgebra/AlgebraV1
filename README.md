@@ -37,9 +37,11 @@ A page describing the versions used by partners can be found in the documentatio
 
 Full packages:
 
-[@cryptoalgebra/core v2.0.0](https://www.npmjs.com/package/@cryptoalgebra/core/v/2.0.0)
+[@cryptoalgebra/core v1.0.0](https://www.npmjs.com/package/@cryptoalgebra/v1-core/v/1.0.0)
 
-[@cryptoalgebra/periphery v1.0.0](https://www.npmjs.com/package/@cryptoalgebra/periphery/v/1.0.0)
+[@cryptoalgebra/periphery v1.0.1](https://www.npmjs.com/package/@cryptoalgebra/v1-periphery/v/1.0.1)
+
+[@cryptoalgebra/farmings v1.0.1](https://www.npmjs.com/package/@cryptoalgebra/v1-farmings/v/1.0.1)
 
 Only interfaces:
 

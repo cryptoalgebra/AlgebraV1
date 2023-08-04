@@ -2,9 +2,9 @@
 pragma solidity =0.7.6;
 pragma abicoder v2;
 
-import '@cryptoalgebra/core/contracts/interfaces/IAlgebraPool.sol';
-import '@cryptoalgebra/core/contracts/libraries/Constants.sol';
-import '@cryptoalgebra/core/contracts/libraries/FullMath.sol';
+import '@cryptoalgebra/v1-core/contracts/interfaces/IAlgebraPool.sol';
+import '@cryptoalgebra/v1-core/contracts/libraries/Constants.sol';
+import '@cryptoalgebra/v1-core/contracts/libraries/FullMath.sol';
 
 import './interfaces/INonfungiblePositionManager.sol';
 import './interfaces/INonfungibleTokenPositionDescriptor.sol';

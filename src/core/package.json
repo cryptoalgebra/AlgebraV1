@@ -1,5 +1,5 @@
 {
-  "name": "@cryptoalgebra/core",
+  "name": "@cryptoalgebra/v1-core",
   "description": "Core smart contracts of Algebra",
   "license": "GPL-2.0-or-later",
   "publishConfig": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cryptoalgebra/Algebra/"
+    "url": "https://github.com/cryptoalgebra/AlgebraV1"
   },
   "files": [
     "contracts/interfaces",
